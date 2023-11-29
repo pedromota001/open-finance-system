@@ -1,6 +1,7 @@
 # open-finance-system
 Sistema open finance
 a)Descrição textual:
+
 Grupo: Paulo Albuquerque, Pedro Mota, Gustavo Porto
 Tema: Formato open finance, todos os bancos em um único aplicativo
 
@@ -20,10 +21,16 @@ b)Padrão arquitetural:
  [Padrão arquitetural -_ Projeto.docx](https://github.com/pedromota001/open-finance-system/files/13505997/Padrao.arquitetural.-_.Projeto.docx)
 
 c)Diagrama de casos de uso:
+
 ![Diagrama casos de uso sistema open finance](https://github.com/pedromota001/open-finance-system/assets/135559962/0a2cff53-3581-4daa-9ba7-500ab80b0670)
 
+
 d)Fotos do protótipo do sistema:
+
 ![systemOpenfinance1](https://github.com/pedromota001/open-finance-system/assets/135559962/632252b9-f3ff-4b55-9059-8f3637981ccf)
+
 ![systemOpenfinance2](https://github.com/pedromota001/open-finance-system/assets/135559962/3e413410-16cc-41ed-91ff-e7531d6de686)
+
 ![systemOpenfinance3](https://github.com/pedromota001/open-finance-system/assets/135559962/84a366b0-f50f-47ea-8048-3bd6594be18f)
+
 ![systemOpenfinance4](https://github.com/pedromota001/open-finance-system/assets/135559962/a8c2464e-36af-4dfb-b2f9-b33ba82a77bb)
